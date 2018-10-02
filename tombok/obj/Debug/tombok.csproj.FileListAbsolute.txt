@@ -1,0 +1,6 @@
+c:\users\norbi\documents\visual studio 2013\Projects\tombok\tombok\bin\Debug\tombok.exe.config
+c:\users\norbi\documents\visual studio 2013\Projects\tombok\tombok\bin\Debug\tombok.exe
+c:\users\norbi\documents\visual studio 2013\Projects\tombok\tombok\bin\Debug\tombok.pdb
+c:\users\norbi\documents\visual studio 2013\Projects\tombok\tombok\obj\Debug\tombok.csprojResolveAssemblyReference.cache
+c:\users\norbi\documents\visual studio 2013\Projects\tombok\tombok\obj\Debug\tombok.exe
+c:\users\norbi\documents\visual studio 2013\Projects\tombok\tombok\obj\Debug\tombok.pdb
